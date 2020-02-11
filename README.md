@@ -6,7 +6,7 @@ I wrote (based on skeleton code):
 `attack_th2313.r2py`
 
 ### Usage:  
-`cd repy`
+`cd repy`  
 `python2 repy.py restrictions.default encasementlib.r2py reference_model_th2313.r2py attack_th2313.r2py`
 
 
